@@ -1,2 +1,2 @@
 # ur5_yolo_ros
-ur5_yolo
+ur5_yolo_ros
